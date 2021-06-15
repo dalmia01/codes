@@ -1,0 +1,173 @@
+Modern JavaScript Learning Path - https://www.youtube.com/watch?v=gSnbnYffz7k
+==============================================================================
+
+##### Fundamentals #####
+
+---------------------
+A. Running JavaScript 
+---------------------
+
+1. script tag
+2. Browser console
+3. Link external file
+
+---------------------
+B. Variables
+------------ 
+
+1. Declarations
+   a) var
+   b) let
+   c) const
+
+2. Scope
+   a) global
+   b) function
+   c) block
+
+3. Hoisting
+
+---------------------------------
+C. Data Types & Data Structures
+--------------------------------
+
+1. Primitive Types
+   a) undefined
+   b) Boolean
+   c) Number
+   d) Bigint
+   e) String
+   f) symbol
+
+2. null
+3. object
+4. function
+
+5. Data Structures
+    a) Array
+    b) Map/Weak Map
+    c) Set/Weal Set
+    d) Date
+
+---------------------------------
+D. Type Conversion
+--------------------------------
+
+1. Explicity Conversion
+2. implicit Conversion
+
+
+---------------------------------
+E. Equality 
+--------------------------------
+1. == vs ===
+
+---------------------------------
+F. Loops 
+--------------------------------
+
+1. while
+2. do...while
+3. for
+4. break/continue
+5. for...in
+6. for...of
+
+---------------------------------
+G. Control flow
+--------------------------------
+
+1. if...else
+2. switch
+3. try/catch/throw
+
+---------------------------------
+H. Expressions & operators
+--------------------------------
+
+1. Assignment operators
+2. Arithmatic operators
+3. Logical operators
+4. Conditional operators
+5. comparion operators
+6. Relation operators
+7. bitwise operators
+8. String operators
+9. comma operators
+10 unary operators
+
+---------------------------------
+I. Expressions & operators
+--------------------------------
+
+1. functions
+    a) function Declarations
+    b) function Expressions
+    c) calling functions
+    d) parameters & arguments
+    e) Scope
+    f) arrow functions
+
+
+=================================================================================
+
+##### Advanced ######
+
+
+1. Advanced scope
+2. Closure
+3. Currying
+4. this
+    a). implicit binding
+    b). explicit binding
+    c). new binding
+    d). lexical binding
+    e). default binding
+
+5. Prototype
+6. Prototypal inheritance
+7. class
+8. iterators
+9. Generators
+10. Event loop
+11. Asynchronous javascript
+    a). setTimeout
+    b). setInterval
+    c). callbacks
+    d). promises
+    e). async await
+
+12. module system
+    a). CJS
+    b). ESM
+    c). Import/Export
+    d). Default and Named exports
+
+
+=================================================================================
+
+##### Web Apis ######
+
+1. module system
+2. XHR & fetch
+3. storage
+4. video & audio
+5. drawing graphics
+
+=================================================================================
+
+##### Tooling & misc ######
+
+1. Linters 
+    a) eslint
+
+2. code formatters
+    a) prettier
+
+3. Bundlers
+    a) webpack
+    b) Rollup
+    c) parcel
+
+4. typescript
+5. next steps
