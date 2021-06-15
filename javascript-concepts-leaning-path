@@ -133,6 +133,9 @@ J. DOM
 5. Prototype
 6. Prototypal inheritance
 7. class
+    a) encapsulation
+    b) instance
+    c) constructor
 8. iterators
 9. Generators
 10. Event loop
