@@ -1,0 +1,45 @@
+Front End  Learning Path - https://www.youtube.com/watch?v=i5zRYMc7PFw&list=PLC3y8-rFHvwgOyEOBUVjycgcT9o9UTvJ5&index=4
+
+==============================================================================
+
+1. Html 
+=======
+a) what is html?
+b) html elements
+c) attributes
+d) semantic html
+e) accessibility
+
+2. css
+========
+a) Fundamentals
+    1) what is css
+    2) css selectors
+    3) css properties
+    4) values & units
+    5) css specificity
+    6) box model
+    7) display
+    8) positioning
+
+b) Advanced
+    1) shadows
+    2) gradients
+    3) transforms
+    4) transitions
+    5) animations
+    6) css variables
+    7) media queries
+    8) layouts
+        a) flex-box
+        b) grid
+
+c) css preprocessors
+    1) SASS
+    2) LESS
+    3) PostCSS
+
+d) css frameworks
+    1) tailwind css
+    2) bootstrap
+    3) materialize

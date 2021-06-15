@@ -1,0 +1,68 @@
+React Learning Path - https://www.youtube.com/watch?v=Q9Qx2Xef0do
+==============================================================================
+
+1. Fundamentals
+    a) create react app
+    b) function components
+    c) class components
+    d) jsx
+    e) props & state
+    f) useState & useEffect hooks
+    g) setState & component lifecycle methods
+    h) conditional rendering
+    i) lists & key
+    j) building simple forms
+
+2. Advanced
+    a) context
+    b) higher order components
+    c) render props
+    d) refs
+    e) error boundaries
+    f) portals
+    g) http requests
+        1) get
+        2) post
+    h) hooks
+        1) useContext
+        2) useReducer
+        3) useRef
+        4) useMemo
+        5) useCallback
+        6) custom hooks
+
+3. Ecosystem
+    a) state management
+        1) redux/mobx
+        2) apollo client
+    b) routing
+        1) react router
+    c) styling
+        1) styled components / emotion
+        2) tailwind css 
+        3) chakra ui / material ui / ant design
+    d) forms
+        1) formik
+        2) react hook forms
+    f) testing
+        1) jest + react testing library
+        2) cypress
+    g) miscellaneous
+        1) typescript
+        2) storybook
+        3) react i18next
+        4) Firebase
+        5) practical react libraries
+    h) next steps
+        1) gatsby
+        2) next.js
+        3) react native
+    
+4. Tooling & Misc
+    a) code editor (vscode)
+    b) version control (git)
+    c) linters (eslint)
+    d) code formatters (prettier)
+    e) browse dev tools
+    f) bundlers ( webpack, snowpack, rollup, parcel)
+    g) typescript

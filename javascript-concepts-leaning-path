@@ -3,6 +3,8 @@ Modern JavaScript Learning Path - https://www.youtube.com/watch?v=gSnbnYffz7k
 
 ##### Fundamentals #####
 
+what is javascript
+
 ---------------------
 A. Running JavaScript 
 ---------------------
@@ -108,6 +110,10 @@ I. Expressions & operators
     e) Scope
     f) arrow functions
 
+---------------------------------
+J. DOM
+--------------------------------
+
 
 =================================================================================
 
@@ -142,6 +148,10 @@ I. Expressions & operators
     b). ESM
     c). Import/Export
     d). Default and Named exports
+
+13. package manager
+    a) npm
+    b) yarn
 
 
 =================================================================================
